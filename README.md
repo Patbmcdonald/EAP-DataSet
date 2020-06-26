@@ -1,2 +1,2 @@
 # EAP-DataSet
-Data set for the Ewing Accountability Project
+Raw Data set for the Ewing Accountability Project. 
